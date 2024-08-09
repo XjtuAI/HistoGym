@@ -1,12 +1,20 @@
-![HistoGym](img/main.gif)
 
 
+<p align="center">
+  <img src="./img/main.gif" alt="HistoGym Demo" width="700"/>
+</p>
 
 
 
 # *HistoGym*: A  Reinforcement Learning Environment for Histopathological Image Analysis
 
 > [Zhi-Bo Liu](http://zhibo-liu.com)
+
+- [1. Environment Setup](#1. Environment Setup)
+- [2. Tutorial](#2. Tutorial)
+- [3. Reference](#3. Reference)
+- [4. Trouble Shootings](#4. Trouble Shootings)
+- [5. Doc](#5. Doc)
 
 **TODO**
 
