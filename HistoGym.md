@@ -10,11 +10,11 @@
 
 > [Zhi-Bo Liu](http://zhibo-liu.com)
 
-- [1. Environment Setup](#1. Environment Setup)
-- [2. Tutorial](#2. Tutorial)
-- [3. Reference](#3. Reference)
-- [4. Trouble Shootings](#4. Trouble Shootings)
-- [5. Doc](#5. Doc)
+- [1.Environment Setup](#1-Environment-Setup)
+- [2.Tutorial](#2-Tutorial)
+- [3.Reference](#3-Reference)
+- [4.Trouble Shootings](#4-Trouble Shootings)
+- [5.Doc](#5-Doc)
 
 **TODO**
 
