@@ -8,18 +8,20 @@
 
 # *HistoGym*: A  Reinforcement Learning Environment for Histopathological Image Analysis
 
- [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [Zhi-Bo Liu](http://zhibo-liu.com) 
+ [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 - [1.Environment Setup](#1-Environment-Setup)
 - [2.Tutorial](#2-Tutorial)
 - [3.Reference](#3-Reference)
 - [4.Trouble Shootings](#4-Trouble-Shootings)
 - [5.Doc](#5-Doc)
+- [License](#license)
 
 **TODO**
 
 - [ ] Tutorials
 - [ ] Demos
+- [ ] Packaging HistoGym
 
 # 1. Environment Setup      
 
@@ -201,5 +203,5 @@ Custom environment for histology image analysis.
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
-
+By  [Zhi-Bo Liu](http://zhibo-liu.com) 
 
