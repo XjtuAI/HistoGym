@@ -19,6 +19,7 @@
 
 **TODO**
 
+- [ ] a ~~Stylish~~ Web Base UI
 - [ ] Tutorials
 - [ ] Demos
 - [ ] Packaging HistoGym
