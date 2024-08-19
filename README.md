@@ -1,8 +1,9 @@
 
 
 <p align="center">
-  <img src="./img/main.gif" alt="HistoGym Demo" width="700"/>
+  <img src="./img/main.gif" alt="HistoGym Demo" width="500"/>
 </p>
+
 
 
 
@@ -12,9 +13,10 @@
 
 - [1.Environment Setup](#1-Environment-Setup)
 - [2.Tutorial](#2-Tutorial)
-- [3.Reference](#3-Reference)
+- [3.Datasets](#3-datasets)
 - [4.Trouble Shootings](#4-Trouble-Shootings)
 - [5.Doc](#5-Doc)
+- [Citation](#citation)
 - [License](#license)
 
 **TODO**
@@ -95,15 +97,7 @@ TODO: This Jupyter Notebook tutorial will guide you through the foundational con
 
 
 
-# 3. Reference
-
-## RL Framwork
-
-- [Stable Baselines 3](https://github.com/DLR-RM/stable-baselines3) 
--  [Tianshou](https://github.com/thu-ml/tianshou) 
-
-
-## Datasets
+# 3. Datasets
 
 - [Camelyon16](https://camelyon16.grand-challenge.org/)  Breast 
 - [Camelyon17](https://camelyon17.grand-challenge.org/)  Breast 
@@ -199,6 +193,24 @@ Custom environment for histology image analysis.
 - `reset(self)`: Resets the environment and returns the initial state.
 - `step(self, action)`: Takes a step in the environment based on the given action.
 - `render(self, mode="save")`: Renders the current state of the environment.
+
+# Citation
+
+If you use this code for your research, please cite our [paper](https://arxiv.org/abs/2408.08847).
+
+```lat
+@misc{histogym2024,
+    title={HistoGym: A Reinforcement Learning Environment for Histopathological Image Analysis},
+    author={Zhi-Bo Liu and Xiaobo Pang and Jizhao Wang and Shuai Liu and Chen Li},
+    year={2024},
+    eprint={2408.08847},
+    archivePrefix={arXiv},
+}
+```
+
+# Acknowledgments
+
+RL framwork [Stable Baselines 3](https://github.com/DLR-RM/stable-baselines3) & [Tianshou](https://github.com/thu-ml/tianshou) 
 
 # License
 
