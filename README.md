@@ -1,25 +1,26 @@
+<h1 align="center">
+  <a>
+    <img src="./img/main.gif" width="255" />
+  </a><br>
+  <b>HistoGym: A  Reinforcement Learning Environment 🤖</b><br>
+  <b>for Histopathological Image Analysis 🔬</b><br>
+</h1>
+
 
 
 <p align="center">
-  <img src="./img/main.gif" alt="HistoGym Demo" width="500"/>
+  📚 <a href="https://arxiv.org/abs/2408.08847">[Paper]</a> |
+  📝 <a href="https://xjtuai.com/histogym/">[Blog Post]</a> |
 </p>
-
-
-
-
-# *HistoGym*: A  Reinforcement Learning Environment for Histopathological Image Analysis
-
-[***HistoGym*** Paper](https://arxiv.org/abs/2408.08847)
-
  [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-- [1.Environment Setup](#1-Environment-Setup)
-- [2.Tutorial](#2-Tutorial)
-- [3.Datasets](#3-datasets)
-- [4.Trouble Shootings](#4-Trouble-Shootings)
-- [5.Doc](#5-Doc)
-- [Citation](#citation)
-- [License](#license)
+1. [Environment Setup](#1-Environment-Setup)
+2. [Tutorial](#2-Tutorial)
+3. [Datasets](#3-datasets)
+4. [Trouble Shootings](#4-Trouble-Shootings)
+5. [Doc](#5-Doc)
+6. [Citation](#citation)
+7. [License](#license)
 
 **TODO**
 
@@ -219,4 +220,3 @@ RL framwork [Stable Baselines 3](https://github.com/DLR-RM/stable-baselines3) & 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 By  [Zhi-Bo Liu](http://zhibo-liu.com) 
-
