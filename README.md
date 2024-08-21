@@ -9,6 +9,8 @@
 
 # *HistoGym*: A  Reinforcement Learning Environment for Histopathological Image Analysis
 
+[***HistoGym*** Paper](https://arxiv.org/abs/2408.08847)
+
  [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 - [1.Environment Setup](#1-Environment-Setup)
