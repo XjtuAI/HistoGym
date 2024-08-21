@@ -7,12 +7,10 @@
 </h1>
 
 
-
 <p align="center">
   📚 <a href="https://arxiv.org/abs/2408.08847">[Paper]</a> |
-  📝 <a href="https://xjtuai.com/histogym/">[Blog Post]</a> |
+  📝 <a href="https://xjtuai.com/histogym/">[Blog Post]</a> 
 </p>
-![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 
 1. [Environment Setup](#1-Environment-Setup)
 2. [Tutorial](#2-Tutorial)
@@ -216,6 +214,8 @@ If you use this code for your research, please cite our [paper](https://arxiv.or
 RL framwork [Stable Baselines 3](https://github.com/DLR-RM/stable-baselines3) & [Tianshou](https://github.com/thu-ml/tianshou) 
 
 # License
+
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
